@@ -8,7 +8,13 @@ export default class App extends WidgetBase {
 	private _workerData: WorkerProperties[] = [
 		{
 			firstName: 'Tim',
-			lastName: 'Jones'
+			lastName: 'Jones',
+			email: 'tim.jones@bizecorp.org',
+			tasks: [
+				'6267 - Untangle paperclips',
+				'4384 - Shred documents',
+				'9663 - Digitize 1985 archive'
+			]
 		},
 		{
 			firstName: 'Alicia',

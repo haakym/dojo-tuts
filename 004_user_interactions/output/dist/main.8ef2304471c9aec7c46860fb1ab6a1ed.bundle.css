@@ -1,0 +1,120 @@
+/*!
+ * 
+ * [Dojo](https://dojo.io/)
+ * Copyright [JS Foundation](https://js.foundation/) & contributors
+ * [New BSD license](https://github.com/dojo/meta/blob/master/LICENSE)
+ * All rights reserved
+ * 
+ */
+/* Put your styles and imports here */
+._35U0C7gh {
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	display: inline-block;
+	margin-bottom: 20px;
+	padding-left: 10px;
+	vertical-align: middle;
+	width: 60%;
+}
+
+._1U-R56nv {
+	margin: 0 auto 20px;
+	max-width: 250px;
+	width: 100%;
+}
+
+._3b9QDa79 {
+	margin-bottom: 20px;
+	vertical-align: middle;
+	width: 40%;
+}
+
+.jzs40Zu_ {
+	font-weight: bold;
+}
+
+.Lp7zzO5n {
+	border: solid 1px #333;
+	border-radius: 0.3em;
+	margin-top: 3px;
+	padding: 3px;
+	text-align: left;
+}
+
+._4_RCMcbG {
+	-webkit-box-flex: 1;
+	    -ms-flex: 1 1 calc(33% - 20px);
+	        flex: 1 1 calc(33% - 20px);
+	margin: 0 10px 40px;
+	max-width: 350px;
+	min-width: 250px;
+	position: relative;
+
+	/* flip transform styles */
+	-webkit-perspective: 1000px;
+	        perspective: 1000px;
+	-webkit-transform-style: preserve-3d;
+	        transform-style: preserve-3d;
+}
+
+.XMULWwWV, ._3HVX3VH7 {
+	border: 1px solid #333;
+	border-radius: 4px;
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+	padding: 30px;
+
+	/* flip transform styles */
+	-webkit-backface-visibility: hidden;
+	        backface-visibility: hidden;
+	-webkit-transition: all 0.6s;
+	transition: all 0.6s;
+	-webkit-transform-style: preserve-3d;
+	        transform-style: preserve-3d;
+}
+
+._3HVX3VH7 {
+	font-size: 0.75em;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	-webkit-transform: rotateY(-180deg);
+	        transform: rotateY(-180deg);
+	width: 100%;
+}
+
+.XMULWwWV {
+	text-align: center;
+	-webkit-transform: rotateY(0deg);
+	        transform: rotateY(0deg);
+	z-index: 2;
+}
+
+._2tBb7xVl .XMULWwWV {
+	-webkit-transform: rotateY(180deg);
+	        transform: rotateY(180deg);
+}
+
+._2tBb7xVl ._3HVX3VH7 {
+	-webkit-transform: rotateY(0deg);
+	        transform: rotateY(0deg);
+}._1j37melx {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	    -ms-flex-flow: row wrap;
+	        flex-flow: row wrap;
+	-webkit-box-pack: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: stretch;
+	    -ms-flex-align: stretch;
+	        align-items: stretch;
+	margin: 0 auto;
+	width: 100%;
+}
+
+/*# sourceMappingURL=main.8ef2304471c9aec7c46860fb1ab6a1ed.bundle.css.map*/
